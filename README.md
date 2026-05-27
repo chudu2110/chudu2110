@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.threads.com/@kirvu_05">
-  <img src="https://img.shields.io/badge/Threads-3K%2B-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threads%2B-000000?style=for-the-badge&logo=threads&logoColor=white" />
 </a>
 <a href="https://www.behance.net/chudu4">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />

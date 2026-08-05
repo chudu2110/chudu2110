@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://my-portfolio-ver01.vercel.app/">
+<a href="https://chudu-workspace.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.threads.com/@kirvu_05">
